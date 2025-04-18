@@ -1,0 +1,7 @@
+[package]
+name = "bevy"
+version = "0.1.0"
+description = ""
+edition = "2021"
+
+[dependencies]
